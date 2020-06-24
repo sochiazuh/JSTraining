@@ -8,3 +8,13 @@ git commit -m "first commit"
 git push origin master
 
 git help
+
+//In case of Error use the below code sequence//
+git fetch origin master
+git merge origin master
+//If this generates other error: (non-fast-forward//
+git fetch origin master:tmp
+git rebase tmp
+git push origin HEAD:master
+git branch -D tmp
+//End//
