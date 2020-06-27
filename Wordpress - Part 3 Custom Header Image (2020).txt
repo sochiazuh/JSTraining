@@ -1,0 +1,9 @@
+/* Tutorial Author: Scratch Coding
+
+*/
+get_header();
+?>
+<div class="header_image" style="background: url(<?php echo header_image(); ?>) no-repeat; background-size: cover;">
+	<h2>Scratch Coding</h2>
+	<h3>Welcome</h3>
+</div>
