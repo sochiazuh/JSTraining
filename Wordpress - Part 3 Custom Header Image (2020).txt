@@ -7,3 +7,29 @@ get_header();
 	<h2>Scratch Coding</h2>
 	<h3>Welcome</h3>
 </div>
+
+========================================
+TEST BLOG - WORDPRESS THEME
+========================================
+/*
+ Theme Name:   Diablo
+ Theme URI:    http://diablo-blog/
+ Description:  Diablo Wordpress Tutorial Theme
+ Author:       Sochi Azuh
+ Author URI:   http://diablo-blog.com
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, accessibility-ready
+*/
+
+Minimal CSS to keep this simple!
+downloaded the Underscore Starter Theme. Might not need it but WTH.
+
+
+Localhost Login Details
+========================
+Site Title: Diablo
+Username: Sochi
+Password: &I7B5X*l(aqy1ohZ6W
+Email: sochi.azuh@gmail.com
